@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm RΞZU</h1>
 <h3 align="center">Exploring Business & Technology</h3>
 
-<img align="right" alt="coding" width="400" src="1">
+<img align="right" alt="coding" width="400" src="1"<https://github.com/nuruzzamanrezu/nuruzzamanrezu/blob/main/gif.webp>
 
 - 🌱 I’m currently learning * digital marketing, blockchain technology**
 
