@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/nuruzzamanrezu/nuruzzamanrezu/blob/main/LOGO.jpg)
 <h1 align="center">Hi 👋, I'm RΞZU</h1>
 <h3 align="center">Exploring Business & Technology</h3>
 
