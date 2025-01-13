@@ -1,4 +1,4 @@
-![logo](!LOgo.jpg)
+![logo]([!LOgo.jpg](https://github.com/nuruzzamanrezu/nuruzzamanrezu/blob/521fa713fa8d74c0f67405e62f86f6cf8942838a/LOgo.jpg))
 )
 <h1 align="center">Hi 👋, I'm RΞZU</h1>
 <h3 align="center">Blockchain & AI Enthusiast | Emerging Tech Innovator | Project Manager
