@@ -17,10 +17,6 @@ Driven and innovative, I specialize in blockchain solutions, AI-driven product d
 - Blockchain: Ethereum, Binance Smart Chain , Base etc 
 - AI & Machine Learning: TensorFlow, OpenAI APIs
 
-## 📊 GitHub Analytics  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuruzzamanrezu&show_icons=true&theme=radical)](https://github.com/nuruzzamanrezu)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuruzzamanrezu&layout=compact&theme=radical)](https://github.com/nuruzzamanrezu)
-
 
 ## 🏆 Achievements  
 - 📫coming soon
@@ -30,9 +26,6 @@ Driven and innovative, I specialize in blockchain solutions, AI-driven product d
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nuruzzaman_rezu)  
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nuruzzamanrezu)
 
-
-## 📈 Contribution Highlights  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nuruzzamanrezu&theme=rogue)](https://github.com/nuruzzamanrezu)
 
 
 ## 💡 Personal Interests  
@@ -58,3 +51,6 @@ Driven and innovative, I specialize in blockchain solutions, AI-driven product d
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuruzzamanrezu&" alt="nuruzzamanrezu" /></p>
  
+## 📈 Contribution Highlights  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nuruzzamanrezu&theme=rogue)](https://github.com/nuruzzamanrezu)
+
