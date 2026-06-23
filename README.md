@@ -42,7 +42,7 @@ Driven and innovative Management graduate with a strong interest in business, te
 
 - 🎓 Completed BBA (Honours) 
 - 🎤 Presented at multiple college-level seminars and academic workshops
-- 💡 Actively building knowledge in Blockchain & AI technologies
+- 💡 Actively building knowledge in Business & AI technologies
 - 📫 More achievements coming soon...
 
 ---
