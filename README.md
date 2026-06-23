@@ -1,47 +1,46 @@
 ![logo](https://github.com/nuruzzamanrezu/nuruzzamanrezu/blob/521fa713fa8d74c0f67405e62f86f6cf8942838a/LOgo.jpg)
 
 <h1 align="center">Hi 👋, I'm RΞZU</h1>
-<h3 align="center">Blockchain & AI Enthusiast | Emerging Tech Innovator | Fresh Graduate 🎓</h3>
+<h3 align="center"> AI Enthusiast | Emerging Tech Innovator | Fresh Graduate 🎓</h3>
 
 ---
 
-## 🚀 Professional Summary
+## 👨‍💼 About Me
 
-Driven and innovative fresh graduate with a strong academic foundation in Management. Passionate about blockchain technology, AI-driven product development, and community-driven projects. Actively participating in seminars and presentations to grow professionally while exploring the intersection of emerging technologies and real-world solutions.
+Driven and innovative Management graduate with a strong interest in business, technology, and emerging innovations. I enjoy exploring how artificial intelligence and digital transformation can create practical solutions to real-world challenges. My goal is to continuously learn, grow, and contribute to impactful projects that bridge business and technology.
 
-- 🎓 BBA (Honours) in Management — National University, Bangladesh | CGPA: **3.67/4.00**
-- 🎤 Active participant in college seminars, workshops, and academic presentations
-- 💬 Exploring blockchain ecosystems and contributing to tech communities
-- 💡 Researching AI models to design ergonomic and customized footwear
-- 🌱 Currently learning Blockchain, Web3, and AI-driven technologies
+* 🎤 Active participant in academic seminars, workshops, and professional development programs
+* 💡 Exploring AI applications for ergonomic and personalized footwear solutions
+* 🌱 Continuously learning about business management, artificial intelligence and emerging technologies
+* 🚀 Interested in innovation, problem-solving and technology-driven business transformation
 
----
+
+
+## 🎓 Education
+
+| Degree        | Institution                     | Field of Study | Status    |
+| ------------- | ------------------------------- | -------------- | --------- |
+| BBA (Honours) | National University, Bangladesh | Management     | Completed |
+| MBA           | National University, Bangladesh | Management     | Ongoing   |
+
+
+
+
 
 ## 🔧 Technical Skills
 
 - **Programming:** Python, JavaScript, Solidity *(Learning)*
 - **Tools:** Git, Figma, Docker
-- **Blockchain:** Ethereum, Binance Smart Chain, Base *(Exploring)*
+- **Blockchain:***(Exploring)*
 - **AI & Machine Learning:** TensorFlow, OpenAI APIs *(Exploring)*
 - **Soft Skills:** Presentation, Research, Strategic Thinking, Team Collaboration
 
 ---
 
-## 🎓 Academic Background
-
-| 📚 Detail | 📋 Info |
-|---|---|
-| 🏛️ University | National University, Bangladesh |
-| 📖 Degree | BBA (Honours) in Management |
-| 🏆 CGPA | **3.67 / 4.00** |
-| 🎤 Activities | Seminars, Presentations, Research |
-| 🎯 Focus | Management Strategy & Innovation |
-
----
 
 ## 🏆 Achievements
 
-- 🎓 Completed BBA (Honours) with CGPA **3.67/4.00** from National University
+- 🎓 Completed BBA (Honours) 
 - 🎤 Presented at multiple college-level seminars and academic workshops
 - 💡 Actively building knowledge in Blockchain & AI technologies
 - 📫 More achievements coming soon...
@@ -58,7 +57,7 @@ Driven and innovative fresh graduate with a strong academic foundation in Manage
 
 ## 💡 Personal Interests
 
-- 🔗 Exploring blockchain and decentralized technologies
+- 🔗 Exploring Business and technologies
 - 🤖 Researching AI-driven design solutions
 - 🤝 Networking with industry innovators and tech enthusiasts
 - 📚 Studying the intersection of blockchain and real-world applications
@@ -67,7 +66,7 @@ Driven and innovative fresh graduate with a strong academic foundation in Manage
 
 ## 🌍 Future Vision
 
-- 🔗 Revolutionize blockchain-based decentralized applications.
+- 🔗 ....
 - 🤖 Develop AI-driven solutions for personalized product design.
 - 🌐 Foster an innovative ecosystem for emerging technologies.
 - 💼 Build a career at the intersection of Management, Blockchain & AI.
